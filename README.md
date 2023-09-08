@@ -1,0 +1,2 @@
+# NashvilleHousing_Data-Cleaning----SQL
+In my Nashville housing data cleaning project, I standardized date formats, filled in missing property addresses, parsed addresses into individual components, processed owner addresses, standardized 'SoldAsVacant' values, removed duplicate records, and eliminated unnecessary columns. This project showcases my data cleaning and SQL skills, ensuring the dataset is ready for analysis and reporting.
